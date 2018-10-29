@@ -5,7 +5,7 @@ return st;
 }
 
 let testVariable = "asthaa";
-checkVariable= checkPalindrome(testVariable);
+let checkVariable= checkPalindrome(testVariable);
 if (testVariable==checkVariable){
      console.log("This number is a Palindrome number");
  }else{
